@@ -10,8 +10,6 @@ Users frequently encounter:
 - Delayed confirmations  
 - Inconsistent processing across financial institutions  
 
----
-
 ## Problem Statement  
 Despite the growth of digital payments, transaction reliability remains inconsistent, especially during high-demand periods.
 
@@ -24,16 +22,12 @@ This results in:
 **Core Problem:**  
 Users are unable to complete transactions reliably and efficiently.
 
----
-
 ## Product Objective  
 To improve transaction reliability and efficiency by increasing:
 - Transaction success rate  
 - User trust and satisfaction  
 - Platform retention  
 - Revenue per transaction  
-
----
 
 ## Key Hypotheses  
 
@@ -52,9 +46,7 @@ To improve transaction reliability and efficiency by increasing:
 - Low system trust  
 - Unclear retry process  
 
----
-
-## 📊 Success Metrics  
+## Success Metrics  
 
 ### Primary Metrics:
 - Transaction Success Rate  
@@ -67,9 +59,7 @@ To improve transaction reliability and efficiency by increasing:
 - Drop-off Rate  
 - Customer Support Volume  
 
----
-
-## 📉 Business Impact  
+## Business Impact  
 Transaction failures can:
 - Reduce revenue  
 - Increase support costs  
@@ -77,15 +67,11 @@ Transaction failures can:
 
 Even small improvements in success rate can significantly impact retention and revenue.
 
----
-
-## 🌍 Assumptions  
+## Assumptions  
 - Mobile-first users  
 - Multiple external integrations  
 - Variable network conditions  
 - Peak usage periods exist  
-
----
 
 ## Scope of Analysis  
 
@@ -98,8 +84,6 @@ Even small improvements in success rate can significantly impact retention and r
 - Cross-border payments  
 - Cryptocurrency  
 
----
-
 ## Why This Problem Matters  
 Reliability is directly tied to trust in digital payments.
 
@@ -107,12 +91,8 @@ If users cannot complete transactions consistently:
 - They reduce usage  
 - They switch platforms  
 
----
-
 ## Disclaimer  
 This is a simulated case study based on common industry challenges, designed to demonstrate product thinking and data analysis.
-
----
 
 ## Expected Outcome  
 - Identify causes of transaction failure  
